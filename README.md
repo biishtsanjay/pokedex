@@ -1,4 +1,7 @@
 # Pokedex
+live url--
+https://pokedexxpokemon.netlify.app/
+
 This is a Pokedex, which is made by using "pokeapi".
 
 - It gives a list of pokemonson it's Right side.
